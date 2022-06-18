@@ -17,3 +17,4 @@ Using Selenium library, I created a script that takes the course's main url as i
 1. Scrapping web content is fun
 2. Once you understand the structure of the content (how it loads, what is located where) it's pretty straight forward 
 
+If you have any feedback on the code, feel free to open an issue, let's talk about it! :) 
